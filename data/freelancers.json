@@ -1,5 +1,16 @@
 [
     {
+       "slack_name": "@tomeuo",
+       "slack_member_id": "U2YS81BCP",
+       "full_name": "Tomeu Ozonas",
+       "web": "https://www.tomeuozonas.com/",
+       "linkedin_handler": "bozonas",
+       "services": "Communication & Agile Trainings, Scrum Master Mentoring, Agile Consultancy",
+       "skills": ["Agile Coach", "Scrum Master", "Trainer", "Mentor"],
+       "availability_hours_week": {"min": 2, "max": 8},
+       "pricing_model": "Depending on the project"
+    },
+    {
        "slack_name": "@CarmenDelgado",
        "slack_member_id": "UEDFE7J07",
        "full_name": "Carmen Delgado",
